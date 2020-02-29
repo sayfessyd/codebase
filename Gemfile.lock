@@ -96,7 +96,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-paginate (~> 1.1.0)
   jekyll-sitemap (~> 1.4.0)
-  jekyll-theme-clean-blog
+  jekyll-theme-clean-blog (~> 4.0.9)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
