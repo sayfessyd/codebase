@@ -1,0 +1,25 @@
+title: Sayf Essyd's Blog
+email: mail.sayf@yahoo.com
+description: >-
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: ''
+url: 'https://codebase.sayfessyd.com'
+
+author: sayfessyd
+twitter_username: sayfessyd
+github_username: sayfessyd
+
+paginate:           5
+paginate_path:      "/posts/page:num/"
+
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+jekyll_admin:
+  hidden_links:
+    - ''
