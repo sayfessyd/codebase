@@ -14,7 +14,6 @@ github_username: sayfessyd
 paginate:           5
 paginate_path:      "/posts/page:num/"
 
-theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -23,3 +22,6 @@ plugins:
 jekyll_admin:
   hidden_links:
     - ''
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
