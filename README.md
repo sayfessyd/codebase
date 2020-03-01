@@ -1,3 +1,3 @@
-# Codebase ![](https://github.com/sayfessyd/codebase/workflows/.github/workflows/jekyll.yml/badge.svg?branch=gh-pages)
+# Codebase ![Jekyll site CI](https://github.com/sayfessyd/codebase/workflows/Jekyll%20site%20CI/badge.svg)
 Distinct blog section
 
