@@ -3,3 +3,31 @@
 ---
 
 @import "styles";
+
+
+#search-box input.ais-search-box--input {
+  background: rgba(0,0,0,0.1) !important;
+  color: #bbb !important;
+  height: 40px !important;
+
+  &::placeholder {
+    color: #bbb !important;
+  }
+}
+
+.ais-search-box--magnifier {
+  margin-top: -3px !important;
+  left: 11px !important;
+}
+
+.ais-search-box {
+  margin-bottom: -5px;
+}
+
+.ais-search-box--reset {
+  top: calc(50% - 16px/2) !important;
+}
+
+.footer-separator {
+  margin-top: 50px;
+}

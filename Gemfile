@@ -6,6 +6,7 @@ group :jekyll_plugins do
   gem "jekyll-admin", "~> 0.9.0"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap", "~> 1.4.0"
+  gem 'jekyll-algolia', '~> 1.0'
 end
 
 # Windows
