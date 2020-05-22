@@ -1,3 +1,3 @@
-# codebase ![build status](https://github.com/sayfessyd/codebase/workflows/Jekyll%20site%20CI/badge.svg)
+# codebase ![Build](https://github.com/sayfessyd/codebase/workflows/.github/workflows/build.yml/badge.svg)
 Distinct section for blogging
 
