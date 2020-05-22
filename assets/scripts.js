@@ -23,7 +23,8 @@ search.addWidget(
       templates: {
         empty: '<div class="alert alert-danger" role="alert"> <strong>No results!</strong> Please try another term.</div>',
         item: '<article class="post-preview"> <a href="{{url}}"> <h2 class="post-title">{{title}}</h2><h3 class="post-subtitle">{{ subtitle }}</h3> <h3 class="post-subtitle">{{ description }}</h3></a><p class="post-meta">Post type: {{ type }}</p></article><hr>'
-      }
+      },
+      hitsPerPage: 5
     })
 );
 
