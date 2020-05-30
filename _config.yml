@@ -24,3 +24,7 @@ plugins:
 jekyll_admin:
   hidden_links:
     - ''
+
+# Disqus Comments
+disqus:
+  shortname: codebase-1
